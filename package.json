@@ -1,0 +1,19 @@
+{
+  "name": "urlshort",
+  "version": "0.1.0",
+  "description": "Simple URL Shortener to run out of docker containers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunnarmagholder/urlshort.git"
+  },
+  "author": "G. Magholder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunnarmagholder/urlshort/issues"
+  },
+  "homepage": "https://github.com/gunnarmagholder/urlshort#readme"
+}
