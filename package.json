@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gunnarmagholder/urlshort/issues"
   },
-  "homepage": "https://github.com/gunnarmagholder/urlshort#readme"
+  "homepage": "https://github.com/gunnarmagholder/urlshort#readme",
+  "dependencies": {
+    "redis": "^2.8.0"
+  }
 }
