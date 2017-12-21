@@ -1,2 +1,2 @@
 docker pull redis
-docker run --name some-redis -d redis redis-server --appendonly yes
+docker run --name some-redis -d redis redis-server --appendonly yes -p 6379:6379
