@@ -1,2 +1,3 @@
 docker pull redis
-docker run --name some-redis -d -p 6379:6379 redis redis-server --appendonly yes 
+docker run --name urlredis -d -p 6379:6379 redis redis-server --appendonly yes 
+docker stop urlredis
